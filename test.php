@@ -5,3 +5,9 @@ function bikinanSheryn()
 {
 
 }
+
+
+function rioBanyakBerbicara()
+{
+    
+}
