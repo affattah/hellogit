@@ -1,7 +1,7 @@
-validasi();
+2validasi();
 
 
 function bikinanSheryn()
 {
-    
+
 }
