@@ -1,1 +1,7 @@
 validasi();
+
+
+function bikinanSheryn()
+{
+    
+}
